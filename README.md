@@ -6,10 +6,8 @@
 ![Snake animation](https://github.com/MagnoEfren/magnoefren/blob/main/github_snake.svg)
 
 
-<div align="center">  
+<a href="https://www.youtube.com/c/MagnoEfren" target="_blank">
   
-
-<a href="https://www.youtube.com/c/silviuxgaming/videos" target="_blank">
-  
+<img src="https://img.shields.io/badge/YouTube-FF0905?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">  
 
 ### [Youtube](https://youtube.com/@silviuxgaming?sub_confirmation=1)
