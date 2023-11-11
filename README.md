@@ -6,7 +6,7 @@
 ![Snake animation](https://github.com/MagnoEfren/magnoefren/blob/main/github_snake.svg)
 
 
-<a href="https://www.youtube.com/c/silviuxgaming" target="_blank">
+<a href="https://www.youtube.com/@silviuxgaming" target="_blank">
   
 <img src="https://img.shields.io/badge/YouTube-FF0905?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">  
 
